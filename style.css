@@ -15,13 +15,6 @@ h1 {
     gap: 20px;
 }
 
-.row {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-    padding: 20px;
-}
-
 .yellow {
     background-color: #ffeb3b;
 }
@@ -32,13 +25,6 @@ h1 {
 
 .red {
     background-color: #f44336;
-}
-
-.row img {
-    width: 150px;
-    height: 150px;
-    border: 5px solid white;
-    border-radius: 10px;
 }
 
 footer {
